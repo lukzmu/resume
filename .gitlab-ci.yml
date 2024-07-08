@@ -28,9 +28,10 @@ before_script:
     - apt-get update
     - apt-get install -y git xvfb libfontconfig wkhtmltopdf
     - poetry run python resume/main.py
+    - git remote add gitlab_origin https://oauth2:$ACCESS_TOKEN@gitlab.com/lukasz.zmudzinski/resume.git
     - git config --local user.email "ci@gitlab.com"
     - git config --local user.name "gitlab-ci"
     - git add resume.pdf --force
     - git commit -m "Generate resume pdf from GitLab CI"
-    - git push origin "${CI_DEFAULT_BRANCH}" -o ci.skip
+    - git push gitlab_origin HEAD:$CI_DEFAULT_BRANCH -o ci.skip
   
