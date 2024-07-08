@@ -32,5 +32,5 @@ before_script:
     - git config --local user.name "gitlab-ci"
     - git add resume.pdf --force
     - git commit -m "Generate resume pdf from GitLab CI"
-    - git push
+    - git push https://${CI_SERVER_HOST}/${CI_PROJECT_NAMESPACE}/${CI_PROJECT_NAME}.git HEAD:$CI_COMMIT_REF_NAME
   
