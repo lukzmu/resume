@@ -20,7 +20,7 @@ before_script:
 🚀 build:
   stage: build
   rules:
-    - if: $CI_COMMIT_BRANCH == "feature/update_pipelines"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   needs:
     - 🐶 ruff
     - 🍰 mypy
@@ -32,5 +32,5 @@ before_script:
     - git config --local user.name "gitlab-ci"
     - git add resume.pdf --force
     - git commit -m "Generate resume pdf from GitLab CI"
-    - git push https://${CI_SERVER_HOST}/${CI_PROJECT_NAMESPACE}/${CI_PROJECT_NAME}.git HEAD:$CI_COMMIT_REF_NAME
+    - git push origin "${CI_DEFAULT_BRANCH}" -o ci.skip
   
