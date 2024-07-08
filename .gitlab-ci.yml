@@ -26,7 +26,7 @@ before_script:
     - 🍰 mypy
   script:
     - apt-get update
-    - apt-get install -y xvfb libfontconfig wkhtmltopdf
+    - apt-get install -y git xvfb libfontconfig wkhtmltopdf
     - poetry run python resume/main.py
     - git config --local user.email "ci@gitlab.com"
     - git config --local user.name "gitlab-ci"
