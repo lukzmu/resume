@@ -24,16 +24,15 @@ class BuilderService:
     def __init__(
         self,
         file_path: str,
-        person_name: str = "Lukasz Zmudzinski",
-        person_title: str = "Python Developer",
+        person_name: str,
+        person_title: str,
         person_contact: list[str] | None = None,
     ) -> None:
         self._file_path = file_path
         self._person = {
             "name": person_name,
             "title": person_title,
-            "contact": person_contact
-            or ["lukasz@zmudzinski.me", "github.com/zmudzinski-me"],
+            "contact": person_contact or [],
         }
 
     def build(self) -> None:
