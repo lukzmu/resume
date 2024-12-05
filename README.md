@@ -1,8 +1,15 @@
 ## Experience
 
+### AP-Tech
+
+- `2023.09 - Present` **Senior Python Engineer**
+   - Building monitoring and reaction systems for the aviation industry,
+   - Proposing technical solutions for new and existing projects,
+   - Supporting project teams with technical knowledge and review.
+
 ### Infermedica
 
-- `2023.08 - Present` **Senior Python Developer**
+- `2023.08 - 2024.0` **Senior Python Developer**
    - Building the medical knowledge base and related API
    - Supporting ecosystem users with their technical problems
    - Extending, developing and maintaining company services
@@ -56,6 +63,10 @@
 
 ## Education
 
+### Wyzsza Szkola Ksztalcenia Zawodowego
+
+- `2022.10 - 2024.09` Post-Graduate in Management in Health Care
+
 ### University of Warmia and Mazury
 
 - `2014.10 - 2016.06` Master of Science in Information Technology
@@ -108,8 +119,11 @@
 
 ### Commercial
 
-- `2023.11 - Present` Internal medical tools Python package
-- `2023.08 - Present` Medical Knowledge Base and related API
+- `2024.09 - Present` System for automatic airport obstacle monitoring
+- `2024.09 - Present` Airport risk management system
+- `2024.09 - Present` Advanced Surface Movement Guidance and Control System
+- `2023.11 - 2024.08` Internal medical tools Python package
+- `2023.08 - 2024.08` Medical Knowledge Base and related API
 - `2022.08 - 2023.08` Internal Business Intelligence project
 - `2022.08 - 2022.11` Analytics Dashboard for Machine Learning
 - `2021.09 - 2022.08` IoT emergency lightning system
