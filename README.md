@@ -3,13 +3,13 @@
 ### AP-Tech
 
 - `2023.09 - Present` **Senior Python Engineer**
-   - Building monitoring and reaction systems for the aviation industry,
-   - Proposing technical solutions for new and existing projects,
-   - Supporting project teams with technical knowledge and review.
+   - Building monitoring and reaction systems for the aviation industry
+   - Proposing technical solutions for new and existing projects
+   - Supporting project teams with technical knowledge and review
 
 ### Infermedica
 
-- `2023.08 - 2024.0` **Senior Python Developer**
+- `2023.08 - 2024.08` **Senior Python Developer**
    - Building the medical knowledge base and related API
    - Supporting ecosystem users with their technical problems
    - Extending, developing and maintaining company services
