@@ -2,7 +2,7 @@
 
 ### AP-Tech
 
-- `2024.09 - Present` **Senior Python Engineer**
+- `2024.09 - Present` **Tech Lead**
    - Building monitoring and reaction systems for the aviation industry
    - Proposing technical solutions for new and existing projects
    - Supporting project teams with technical knowledge and review
