@@ -10,6 +10,7 @@ builder = BuilderService(
     person_contact=[
         "lukasz@zmudzinski.me",
         "github.com/lukzmu",
+        "linkedin.com/in/lukzmu/"
     ],
     file_path=readme_path
 )
