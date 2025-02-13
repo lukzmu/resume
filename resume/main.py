@@ -10,7 +10,11 @@ builder = BuilderService(
     person_contact=[
         "lukasz@zmudzinski.me",
         "github.com/lukzmu",
+<<<<<<< HEAD
         "linkedin.com/in/lukzmu",
+=======
+        "linkedin.com/in/lukzmu"
+>>>>>>> b99b30e (Update personal contact)
     ],
     file_path=readme_path
 )
