@@ -1,8 +1,15 @@
 ## Experience
 
+### STX Next
+
+- `2025.03 - Present` **Senior Backend Engineer**
+   - Performing Technical Leadership roles in client projects
+   - Gathering requirements and proposing technical solutions
+   - Mentoring of Python developers and helping them grow
+
 ### AP-Tech
 
-- `2024.09 - Present` **Tech Lead**
+- `2024.09 - 2025.03` **Tech Lead**
    - Building monitoring and reaction systems for the aviation industry
    - Proposing technical solutions for new and existing projects
    - Supporting project teams with technical knowledge and review
