@@ -126,9 +126,10 @@
 
 ### Commercial
 
-- `2024.09 - Present` System for automatic airport obstacle monitoring
-- `2024.09 - Present` Airport risk management system
-- `2024.09 - Present` Advanced Surface Movement Guidance and Control System
+- `2025.03 - Present` Media Campaign Platform
+- `2024.09 - 2025.03` System for automatic airport obstacle monitoring
+- `2024.09 - 2025.03` Airport risk management system
+- `2024.09 - 2025.03` Advanced Surface Movement Guidance and Control System
 - `2023.11 - 2024.08` Internal medical tools Python package
 - `2023.08 - 2024.08` Medical Knowledge Base and related API
 - `2022.08 - 2023.08` Internal Business Intelligence project
