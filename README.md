@@ -2,6 +2,11 @@
 
 ### STX Next
 
+- `2025.06 - Present` **Backend Team Leader**
+   - Conducting growth reviews and contributing to the calibration process
+   - Assisting with developer-client/company project alignment
+   - Driving initiatives within the Backend department
+
 - `2025.03 - Present` **Senior Backend Engineer**
    - Performing Technical Leadership roles in client projects
    - Gathering requirements and proposing technical solutions
