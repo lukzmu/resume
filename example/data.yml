@@ -1,0 +1,207 @@
+person:
+  person_name: Lukasz Zmudzinski
+  title: Python Engineer
+  contact:
+    - lukasz@zmudzinski.sh
+    - github.com/lukzmu
+    - linkedin.com/in/lukzmu
+experience:
+  - company_name: STX Next
+    jobs:
+      - job_name: Backend Team Leader
+        start_date: 2025.06.01
+        end_date: null
+        description: 
+          - Conducting growth reviews and contributing to the calibration process
+          - Assisting with developer-client/company project alignment
+          - Driving initiatives within the Backend department
+      - job_name: Senior Backend Engineer
+        start_date: 2025.03.01
+        end_date: null
+        description:
+          - Performing Technical Leadership roles in client projects
+          - Gathering requirements and proposing technical solutions
+          - Mentoring of Python developers and helping them grow
+  - company_name: AP-Tech
+    jobs:
+      - job_name: Technical Lead
+        start_date: 2024.09.01
+        end_date: 2025.03.31
+        description:
+          - Performing Technical Leadership roles in client projects
+          - Gathering requirements and proposing technical solutions
+          - Mentoring of Python developers and helping them grow
+  - company_name: Infermedica
+    jobs:
+      - job_name: Senior Python Engineer
+        start_date: 2023.08.01
+        end_date: 2024.08.31
+        description:
+          - Building the medical knowledge base and related API
+          - Supporting ecosystem users with their technical problems
+          - Extending, developing and maintaining company services
+  - company_name: Merixstudio
+    jobs:
+      - job_name: Technical Lead
+        start_date: 2023.01.01
+        end_date: 2023.08.31
+        description:
+          - Providing cross-team project lifecycle support
+          - Supporting project teams with technical knowledge and review
+          - Providing a communication buffer with the client
+      - job_name: Senior Python Engineer
+        start_date: 2022.01.01
+        end_date: 2022.12.31
+        description:
+          - Leading project development teams
+          - Proposing technical solutions for problems at scale
+          - Being responsible for product lifecycle
+      - job_name: Backend Consultant
+        start_date: 2021.06.01
+        end_date: 2022.07.31
+        description:
+          - Participate in client discovery calls with Business Representatives
+          - Prepare project scope, discuss proposed solutions and create estimations for clients
+          - Make technical decisions about the development direction
+      - job_name: Python Developer
+        start_date: 2020.09.01
+        end_date: 2021.12.31
+        description:
+          - Working in Agile product teams
+          - Proposing technical solutions for assigned tasks
+          - Participating in project discussions
+  - company_name: University of Warmia and Mazury in Olsztyn
+    jobs:
+      - job_name: Research Assistant
+        start_date: 2016.10.01
+        end_date: 2020.09.30
+        description:
+          - Performing research in robotics and machine learning
+          - Improving rough mereology based path planning algorithms
+          - Technical training for students and conference organization
+  - company_name: Butter.co.uk
+    jobs:
+      - job_name: Python Developer
+        start_date: 2018.08.01
+        end_date: 2020.01.31
+        description:
+          - Performing data analysis of clients
+          - Implementing Machine Learning loan models
+          - Adding API functionalities in Django
+  - company_name: Treesat Sp. z o.o.
+    jobs:
+      - job_name: Python Engineer
+        start_date: 2015.10.01
+        end_date: 2016.06.30
+        description:
+          - Developing IoT systems for heating and car industry
+          - Creating back-end services using Python and Java
+          - Managing a mobile team
+  - company_name: ITM Software House
+    jobs:
+      - job_name: Software Engineer
+        start_date: 2010.09.01
+        end_date: 2014.05.31
+        description:
+          - Creating "wow" effect software using AR and IoT
+          - Working on human-computer interaction interfaces
+          - Preparing designs for web and print
+education:
+  - institution_name: University College of Professional Education
+    field_of_study: GDPR Inspector
+    degree: Postgraduate
+    start_date: 2022.10.01
+    end_date: null
+  - institution_name: University of Warmia and Mazury in Olsztyn
+    field_of_study: Information Technology
+    degree: MSc
+    start_date: 2014.10.01
+    end_date: 2016.06.30
+  - institution_name: University of Warmia and Mazury in Olsztyn
+    field_of_study: Information Technology
+    degree: BSc
+    start_date: 2010.10.01
+    end_date: 2014.06.30
+certification:
+  - certificate_name: Data Engineer
+    provider: DataCamp
+    issue_date: 2023.11.15
+  - certificate_name: SNOMED CT Foundation
+    provider: SNOMED International
+    issue_date: 2023.09.01
+  - certificate_name: AWS Certified Cloud Practicioner
+    provider: AWS
+    issue_date: 2022.06.03
+  - certificate_name: Tableau Data Scientist
+    provider: Tableau
+    issue_date: 2019.11.30
+  - certificate_name: Data Scientist with Python
+    provider: DataCamp
+    issue_date: 2019.02.16
+projects:
+  - project_name: Media Campaign Platform
+    start_date: 2025.03.01
+    end_date: null
+  - project_name: Advanced Surface Movement Guidance and Control System
+    start_date: 2024.09.01
+    end_date: 2025.03.31
+  - project_name: Airport risk management system
+    start_date: 2024.09.01
+    end_date: 2025.03.31
+  - project_name: System for automatic airport obstacle monitoring
+    start_date: 2024.09.01
+    end_date: 2025.03.31
+  - project_name: Internal medical tools python package
+    start_date: 2023.11.01
+    end_date: 2024.08.31
+  - project_name: Medical Knowledge Base and related API
+    start_date: 2023.11.01
+    end_date: 2024.08.31
+  - project_name: Internal Business Intelligence project
+    start_date: 2022.09.01
+    end_date: 2022.11.30
+  - project_name: Analytics Dashboard for Machine Learning
+    start_date: 2022.09.01
+    end_date: 2022.11.30
+  - project_name: IoT emergency lightning system
+    start_date: 2021.09.01
+    end_date: 2022.08.31
+  - project_name: Sales enhancement system
+    start_date: 2021.07.01
+    end_date: 2021.10.31
+  - project_name: E-commerce product importer
+    start_date: 2020.09.01
+    end_date: 2021.06.30
+  - project_name: FinTech in the travel industry
+    start_date: 2018.07.01
+    end_date: 2020.01.31
+  - project_name: Car assistant application
+    start_date: 2015.12.01
+    end_date: 2016.06.30
+  - project_name: IoT device installer
+    start_date: 2016.05.01
+    end_date: 2016.06.30
+  - project_name: Smart IoT platform for the heating industry
+    start_date: 2015.10.01
+    end_date: 2016.06.30
+  - project_name: Smart car fleet manager
+    start_date: 2016.01.01
+    end_date: 2016.06.30
+  - project_name: News aggregator in the game industry
+    start_date: 2015.03.01
+    end_date: 2015.05.31
+  - project_name: Ski Resort browser
+    start_date: 2014.09.01
+    end_date: 2014.11.30
+  - project_name: Customer services search
+    start_date: 2014.05.01
+    end_date: 2014.08.31
+  - project_name: 3D furniture builder
+    start_date: 2012.05.01
+    end_date: 2014.05.31
+  - project_name: Real estate application
+    start_date: 2014.01.01
+    end_date: 2014.05.31
+  - project_name: Sensor based fair assistant
+    start_date: 2013.10.01
+    end_date: 2013.12.31
